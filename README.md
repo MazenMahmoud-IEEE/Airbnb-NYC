@@ -20,3 +20,6 @@ I tried to apply all of what I've learned throughout the last 3 months.
 - Then, I prepared the presentation and specified the data and visuals that will be presented , removed the visuals that might confuse the audience, and made sure that the presentation is clear and informative.
 
 - Last before sharing my insights, I took feedback from my colleagues who never know about the study.
+
+- ![Dashboard](https://github.com/MazenMahmoud-IEEE/Airbnb-NYC/assets/136096065/1aa6c05e-0dd5-48f2-a360-762da3b04232)
+
